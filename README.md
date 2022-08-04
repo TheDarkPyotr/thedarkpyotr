@@ -1,5 +1,5 @@
 ### Hey 👋, I'm Luca.
-<img align="left" src="https://img.shields.io/twitter/follow/TheDarkPyotr?style=for-the-badge"/>
+<a href="https://twitter.com/TheDarkPyotr"><img align="left" src="https://img.shields.io/twitter/follow/TheDarkPyotr?style=for-the-badge"/></a>
 
 
 

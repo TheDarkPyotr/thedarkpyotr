@@ -13,7 +13,7 @@
 
 **Talking about Personal Stuffs:**
 
-- 👨‍🏛 I am currently a student of **University of Pisa** :it:
+- 👨‍🏛 I am currently a student of **Technical University of Munich** 🇩🇪
 - 💻 Major is **ICT Solution Architect**.
 - 🌱 I'm currently learning **Backend development, CI/CD and Cloud architecture**. 
 - 🤔 My hobbies are **hiking and running**.
